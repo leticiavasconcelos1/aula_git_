@@ -1,2 +1,6 @@
 teste
+<<<<<<< HEAD
 Leleh n sabe criar .txt dnv, n sei oq esta acontecendo....
+=======
+Leleh n sabe criar .txt dnv, n sei oq esta acontecendo...
+>>>>>>> 1f618e4befac95758f19ca7f0745ea797cf8a933
